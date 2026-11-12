@@ -126,6 +126,21 @@ This is an independently developed prototype and an ongoing engineering experime
 
 ## Author
 
+
+
+## Connect & Follow the Experiment
+
+<p align="center">
+  <a href="https://lnkd.in/p/dpwF8xc3">
+    <img src="https://img.shields.io/badge/LinkedIn-Watch%20the%20Experiment-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Watch on LinkedIn"/>
+  </a>
+</p>
+
+<p align="center">
+  <sub>See the original experiment, development process, and real-world demonstration.</sub>
+</p>
+
+
 **Abdelkhalek Mammeri**
 
 Electronics · Embedded Systems · IoT · Automation · Computer Vision
